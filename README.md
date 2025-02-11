@@ -6,6 +6,8 @@ This repository contains the following files:
 
 2. D599 Task 1.ipynb - A Jupyter Notebook file that contains the code for data cleaning.
 
-3. D599 Task 1 Final.docx - A Word document file that contains the report for Task 3.
+3. D599 Task 1 Final.docx - A Word document file that contains the report for Task 1.
 
 4. cleaned_employee_turnover_dataset.csv - A CSV file that contains the cleaned employee turnover dataset.
+
+5. Employee Turnover Dataset.xlsx - The XLSX file used for Task 1.

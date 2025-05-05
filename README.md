@@ -1,4 +1,6 @@
 # D599-Task-1-Data-Cleaning-and-Profiling
+### Overview
+This project focuses on data cleaning and profiling of an employee turnover dataset. The goal was to prepare high-quality data for downstream analytics by addressing missing values, formatting issues, and outliers.
 
 ### Data Cleaning and Profiling – Employee Turnover Dataset
   - Cleaned and profiled a 10,000+ record dataset using Python (pandas) by addressing missing values, duplicate records, formatting errors, and outliers.

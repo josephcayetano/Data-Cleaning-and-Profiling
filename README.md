@@ -6,8 +6,7 @@
   -	Produced a final cleaned dataset ready for modeling and delivered a detailed data quality report.
 
 
-This repository contains the following files:
-
+### Files
 1. README.md - A file describing other files in this repository.
 
 2. D599 Task 1.ipynb - A Jupyter Notebook file that contains the code for data cleaning.

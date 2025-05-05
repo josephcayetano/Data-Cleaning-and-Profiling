@@ -1,5 +1,11 @@
 # D599-Task-1-Data-Cleaning-and-Profiling
 
+### Data Cleaning and Profiling – Employee Turnover Dataset
+  - Cleaned and profiled a 10,000+ record dataset using Python (pandas) by addressing missing values, duplicate records, formatting errors, and outliers.
+  -	Applied imputation (mean, median, mode), type conversions, and outlier handling to improve data quality and integrity for analysis.
+  -	Produced a final cleaned dataset ready for modeling and delivered a detailed data quality report.
+
+
 This repository contains the following files:
 
 1. README.md - A file describing other files in this repository.

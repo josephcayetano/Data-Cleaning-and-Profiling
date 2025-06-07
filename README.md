@@ -1,11 +1,11 @@
 # Data Cleaning and Profiling
 ### Overview
-This project focuses on data cleaning and profiling of an employee turnover dataset. The goal was to prepare high-quality data for downstream analytics by addressing missing values, formatting issues, and outliers.
+This project focused on cleaning and preparing an employee turnover dataset to make it ready for analysis by fixing missing data, formatting problems, and outliers.
 
 ### Data Cleaning and Profiling – Employee Turnover Dataset
-  - Cleaned and profiled a 10,000+ record dataset using Python (pandas) by addressing missing values, duplicate records, formatting errors, and outliers.
-  -	Applied imputation (mean, median, mode), type conversions, and outlier handling to improve data quality and integrity for analysis.
-  -	Produced a final cleaned dataset ready for modeling and delivered a detailed data quality report.
+  - Cleaned over 10,000 records using Python (pandas), handling missing values, duplicates, formatting issues, and outliers
+  -	Used techniques like imputation (mean, median, mode), data type fixes, and outlier removal to improve data quality
+  -	Delivered a clean, ready-to-use dataset along with a detailed report on data quality
 
 
 ### Files
